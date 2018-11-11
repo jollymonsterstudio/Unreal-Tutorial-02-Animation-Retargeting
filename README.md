@@ -1,6 +1,6 @@
 # Tutorial 2 - How to re-target animations in Unreal
 
-This is the sample project from my video tutorial which you can find here: https://www.youtube.com/watch?v=obasve4IYEM
+This is the sample project from my video tutorial which you can find here: https://youtu.be/Vf8-UT_xg8A
 
 It shows a few different different things specifically around bringing in new animation assets, from a website like [Mixamo.com](https://www.google.com) and incorporating them into your project.
 
